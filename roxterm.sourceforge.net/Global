@@ -1,0 +1,6 @@
+[roxterm options]
+prefer_dark_theme=0
+profile=Antonio's House Of Root
+only_warn_running=1
+warn_close=0
+colour_scheme=GTK
